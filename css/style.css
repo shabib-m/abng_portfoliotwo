@@ -1,0 +1,249 @@
+
+
+body {
+/*	background: rgb(7,89,122);
+    
+* Created with https://www.css-gradient.com
+* Gradient link: https://www.css-gradient.com/?c1=12546e&c2=15a1a5&gt=r&gd=dcc
+*/
+height: 100vh;
+background: rgb(7,89,122);
+background: radial-gradient(circle, rgba(7,89,122,0.9359943806624212) 0%, rgba(2,49,68,1) 100%);
+
+}
+.abng-tags a {
+	background-color: rgb(26, 193, 236) !important;
+	padding: 3px 8px;
+	border-radius: 5px;
+	margin: 3px;
+	color: rgb(12 74 110) !important;
+}
+
+.site-name {
+	text-shadow: 0 1px 1px #111111;
+}
+
+.abng-menu li {
+	margin-left: 15px;
+}
+.abng-menu a {
+	text-decoration-line: underline;
+	text-decoration-color: #22d3ee;
+	text-decoration-thickness: 2px;
+	text-underline-offset: 14px;
+}
+.views-view-grid .views-row, .views-view-grid .views-grid-box {
+	padding: 1rem;
+	border: unset;
+}
+.abng-bg-op {
+	background-color: rgba(74, 204, 191, 0.3);
+	border-radius: 8px;
+	padding: 15px;
+	border: 2px solid rgba(74, 204, 191, 0.3);
+}
+.abng-bg-op h1 {
+	
+}
+.unpublished {
+	background-color: #079faf;
+	padding: 16px;
+	border-radius: 6px;
+}
+.info-box {
+	color: #444444;
+	padding: 20px;
+	width: 100%;
+	background: rgba(255, 255, 255, 0.08);
+}
+.block-block-sndwq-atsl-bna .info-box i.bx {
+	font-size: 24px;
+	color: #7ef4e4;
+	border-radius: 50%;
+	padding: 14px;
+	float: right;
+	background: rgba(255, 255, 255, 0.1);
+}
+.block-block-sndwq-atsl-bna .info-box h3 {
+	font-size: 20px;
+	color: rgba(255, 255, 255, 0.7);
+	font-weight: 700;
+	margin: 10px 68px 8px 0;
+}
+.block-block-sndwq-atsl-bna .info-box p {
+	padding: 0;
+	color: #fff;
+	line-height: 24px;
+	font-size: 14px;
+	margin: 0 68px 0 0;
+}
+.block-block-sndwq-atsl-bna .info-box .social-links {
+	margin: 5px 68px 0 0 ;
+	display: flex;
+}
+.block-block-sndwq-atsl-bna .info-box .social-links {
+	margin: 5px 68px 0 0 ;
+	display: flex;
+}
+.block-block-sndwq-atsl-bna .social-links i.bx {
+	font-size: unset;
+	color: unset;
+	/* border-radius: 50%; */
+	padding: 3px; 
+	/* float: right; */
+	background: unset;
+}
+.block-block-sndwq-atsl-bna .info-box .social-links a {
+	font-size: 18px;
+	display: inline-block;
+	color: #fff;
+	line-height: 1;
+	margin-left: 12px;
+	transition: 0.3s;
+}
+
+/* */
+.view-page-service .icon-box {
+	text-align: center;
+	background: rgba(74, 204, 191, 0.3);
+	padding: 80px 20px;
+	transition: all ease-in-out 0.3s;
+	width: unset;
+	margin: 20px;
+	border-radius: 5px;
+	border: 2px solid rgba(74, 204, 191, 0.3);
+}
+.view-page-service .icon-box h4 {
+	font-size: 24px;
+	line-height: 1.2;
+	margin: 10px 0;
+	font-weight: bold;
+}
+.view-page-service .icon-box .icon {
+	margin: 0 auto;
+	width: 100px;
+	height: 100px;
+	background: #17bdd7;
+	border-radius: 5px;
+	transition: all .3s ease-out 0s;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin-bottom: 20px;
+	transform-style: preserve-3d;
+}
+.view-page-service .icon-box i {
+	border-radius: unset;
+	border: unset;
+	padding: 6px;
+	font-size: 70px;
+	cursor: pointer;
+	transition: .2s;
+}
+.view-page-service .icon-box i:hover {
+	background-color: #22d3ee;
+	color: #04364A;
+	border-radius: 5px;
+	padding: 10px;
+}
+
+.abng-border-bottom {
+	border-bottom: 1px solid #2dd4bf;
+}
+
+
+/*
+* Created with https://www.css-gradient.com
+* Gradient link: https://www.css-gradient.com/?c1=12546e&c2=15a1a5&gt=r&gd=dcc
+background-image: linear-gradient(to right, #ed6ea0 0%, #ec8c69 100%);: linear-gradient(to right, #ed6ea0 0%, #ec8c69 100%);
+background: #12546E;
+background: radial-gradient(at center, #12546E, #15A1A5);
+*/
+
+.icon-box {
+	width: 120px;
+	display: flex;
+	justify-content: space-between;
+	margin: 25px 0px;
+}
+.icon-box i {
+	border-radius: 50%;
+	border: 2px solid white;
+	padding: 6px;
+	font-size: 25px;
+	cursor: pointer;
+	transition: .2s;
+}
+.icon-box i:hover{
+    background-color: white;
+    color: #04364A;
+}
+
+
+.text-box a {
+    position: relative;
+    width: 150px;
+    height: 32px;
+    background: none;
+    border: 2px solid white;
+    border-radius: 5px;
+    font-size: 20px;
+    cursor: pointer;
+    transition: .3s;
+    color: white;
+}
+.abng-box .downloadBtn {
+	margin-right: 15px;
+	color: #2f2f2f;
+	background-color: white;
+	height: 32px;
+	width: 150px;
+	position: relative;
+	display: inherit;
+	text-align: center;
+	padding: 4px 0px;
+	border-radius: 5px;
+	font-weight: bold;
+}
+.abng-box .contactBtn {
+	margin-right: 15px;
+	color: white;
+	background-color: inherit;
+	height: 32px;
+	width: 150px;
+	position: relative;
+	display: inherit;
+	text-align: center;
+	padding: 2px 0px;
+	border-radius: 5px;
+	border: 1px solid white;
+	font-weight: bold;
+}
+
+.abng-box {
+	text-align: start;
+	position: relative;
+	color: white;
+	display: inline-block;
+}
+.abng-box button::before{
+    content: "";
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    bottom: 0;
+    background-color: white;
+    transition: .5s;
+    z-index: -1;
+}
+.abng-box .downloadBtn::before{
+    right: 0;
+}
+.abng-box .downloadBtn:hover{
+    color: #055768;
+}
+.abng-box .downloadBtn:hover::before{
+    left: 0;
+    width: 0;
+}
+
